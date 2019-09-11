@@ -1,0 +1,3 @@
+student name: Saghy Boelijn
+student number: 613712
+student class: INF1B
